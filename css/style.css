@@ -86,11 +86,13 @@ body{
     background-color: transparent;
     border: 1px solid #E76F51;
     color: #E76F51;
+    padding: 9px 19px;
 }
 .button-outline:hover{
     background-color: #E76F51;;
     border: none;
     color: #fff;
+    padding: 9px 19px;
 }
 
 /* Common CSS */
