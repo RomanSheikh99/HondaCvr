@@ -76,7 +76,7 @@ body{
     color: #E76F51;
     text-transform: capitalize;
     font-size: 18px;
-    padding: 10px 20px;
+    padding: 9px 19px;
     margin: 10px 0;
     border-radius: 5px;
 }
@@ -92,7 +92,7 @@ body{
     background-color: #E76F51;;
     border: none;
     color: #fff;
-    padding: 9px 19px;
+    padding: 10px 20px;
 }
 
 /* Common CSS */
